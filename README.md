@@ -4,7 +4,7 @@ In Satisfiability problem, literals that always have the assignment of TRUE in e
 BONE is able to compute every backbone literal of a given formula.
 ## Benchmark
 The random-benchmark.tar.gz contains all random benchmark used in our paper.
-The industrial-benchmark1.tar.gz from industrial-benchmark25.tar.gz contains all industrial benchmark used in our paper.
+The industrial-benchmark1.tar.gz from industrial-benchmark26.tar.gz contains all industrial benchmark used in our paper.
 ## Usage
 To use BONE, please download the executable file bone and execute it on a linux operating system, with the following commands:
     `chmod +x bone`
